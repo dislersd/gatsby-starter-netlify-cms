@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Dylan Dislers - Software Engineer
-image: /img/sunset_beach_01.jpg
+image: /img/sunset_beach_panorama01.jpg
 heading: Hi I'm Dylan
 subheading: I'm looking to create a better experience for web users
 mainpitch:
